@@ -68,3 +68,5 @@
   .button-grow:hover {
     transform: scale(1.1);
   }
+  
+  .sg-input-menu {color: black;}
